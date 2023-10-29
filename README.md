@@ -2,19 +2,10 @@
     <img src="https://github.com/prowiz77/Youtube-Downlaoder/blob/main/images/mockup.png" alt="Icon" />
 </p>
 
-Explicit Downloader is able to download videos from 18+ sites
-
-Supported Sites:
-  - gotanynudes.com
-  - pornhub.com
-  - xhamster.com
-  - xvideos.com
-  - xnxx.com 
+This simple python gui is able to download youtube videos (single videos and playlists) with youtube-dl(and yt-dl).
 
 Requirements:
-  - UNIX(Linux, MacOS,etc.)
   - Python3
-  - 18+
    
 
 
@@ -23,23 +14,18 @@ Requirements:
 Install Explicit_Download with git
 
 ```bash
-  git clone https://github.com/prowiz77/Explicit_Downloader.git
+  git clone https://github.com/prowiz77/Youtube-Downlaoder.git
 ```
 
 Dependencies
-```bash
-  cd Explicit_Download  
-  pip install -r requirements.txt
 ```
-Install other Dependencies
+  cd Explicit_Download  
+  pip install yt-dlp ; sudo pip install --upgrade youtube_dl ; sudo apt install ffmpeg ; pip3 install customtkinter
+```
 
-```bash
-  sudo apt install ffmpeg
-  sudo pip install --upgrade youtube_dl
-``` 
 Run project
 
 ```bash
-  python3 main.py
+  python3 youtube_downloader_blue.py
 ```  
     
