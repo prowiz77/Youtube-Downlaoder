@@ -1,6 +1,12 @@
 # Youtube Downloader
 This simple python gui is able to download youtube videos (single videos and playlists) with youtube-dl(and yt-dl).
 
+It comes in 4 flavors:
+  - turcois
+  - blue
+  - white
+  - darkgrey
+
 <p align="center">
     <img src="https://github.com/prowiz77/Youtube-Downlaoder/blob/main/images/mockup.png" alt="Icon" />
 </p>
