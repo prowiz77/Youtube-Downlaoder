@@ -1,4 +1,4 @@
-#Youtube Downloader
+# Youtube Downloader
 This simple python gui is able to download youtube videos (single videos and playlists) with youtube-dl(and yt-dl).
 
 <p align="center">
