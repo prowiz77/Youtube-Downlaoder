@@ -7,15 +7,16 @@ It comes in 4 flavors:
   - white
   - darkgrey
 
-<p align="center">
-    <img src="https://github.com/prowiz77/Youtube-Downlaoder/blob/main/images/mockup.png" alt="Icon" />
-</p>
-
 
 Requirements:
   - Python3
-   
 
+
+
+
+<p align="center">
+    <img src="https://github.com/prowiz77/Youtube-Downlaoder/blob/main/images/mockup.png" alt="Icon" />
+</p>
 
 ## Installation
 
